@@ -1,5 +1,5 @@
 #¡Hola, bienvenido al challenge Conversor de Moneda!
-* https://github.com/Daguzman97/Encriptador-texto/blob/main/README.md
+
 
 Este proyecto se realiza durante el curso de programacion realizado por Alura y NextOne oracle.
 
@@ -19,7 +19,7 @@ Este proyecto se realiza durante el curso de programacion realizado por Alura y 
 * 4) se hara la consulta atravez de Api metodo GET "https://v6.exchangerate-api.com/v6/YOUR-API-KEY/pair/EUR/GBP/AMOUNT"
 
 ## Demostracion
-![imagen](https://github.com/Daguzman97/Encriptador-texto/blob/main/demostracion.gif)
+![imagen](https://github.com/Daguzman97/ConversorMonedas/blob/main/conversormonedas-%E2%80%93-Principal.java-2024-12-10-03-44-54.gif)
 
 ## Hecho por:
 
